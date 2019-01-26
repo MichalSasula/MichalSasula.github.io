@@ -47,10 +47,10 @@ education[3][1] = '• profil matematyczno – fizyczny';
 /* LANGUAGES */
 languages.push([]);
 languages[0][0] = 'Angielski';
-languages[0][1] = '85%';
+languages[0][1] = '70%';
 languages.push([]);
 languages[1][0] = 'Niemiecki';
-languages[1][1] = '20%';
+languages[1][1] = '50%';
 /* SKILLS */
 skills.push([]);
 skills[0][0] = 'MS Office';
@@ -82,9 +82,9 @@ skillsPerson[3][0] = 'Komunikatywność';
 skillsPerson[3][1] = '90%';
 /* CONTACT */
 mail = 'Loremipsum@gmail.com';
-phone = 'xxx xxx xxx';
+phone = '(+48)668 830 989';
 address1 = '58-200 Dzierżoniów';
-address2 = 'ul. Lorem ipsum';
+address2 = 'Os. Różane 16B/10';
 
 
 
