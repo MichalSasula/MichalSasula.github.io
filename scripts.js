@@ -81,7 +81,7 @@ skillsPerson.push([]);
 skillsPerson[3][0] = 'Komunikatywność';
 skillsPerson[3][1] = '90%';
 /* CONTACT */
-mail = 'Loremipsum@gmail.com';
+mail = 'michalsasula@gmail.com';
 phone = '(+48)668 830 989';
 address1 = '58-200 Dzierżoniów';
 address2 = 'Os. Różane 16B/10';
