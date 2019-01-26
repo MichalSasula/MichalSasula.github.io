@@ -29,7 +29,7 @@ aboutMe[0] = 'Lorem ipsum.';
 aboutMe[1] = 'Lorem ipsum.<br>Lorem ipsum.';
 /* EXPERIENCE */
 experience.push([]);
-experience[0][0] = '07.2015 - 09.2015 - Lorem ipsum.';
+experience[0][0] = '07.2013 - 09.2013 - Stażysta podczas budowy biurowca w kompleksie biurowym "West Forum" firmy Archicom.';
 experience[0][1] = '• Praktykant w Lorem ipsum.'
 /* EDUCATION */
 education.push([]);
