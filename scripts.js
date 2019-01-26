@@ -84,7 +84,7 @@ skillsPerson[3][1] = '90%';
 mail = 'michalsasula@gmail.com';
 phone = '(+48)668 830 989';
 address1 = '58-200 Dzierżoniów';
-address2 = 'Os. Różane 16B/10';
+address2 = 'Oś. Różane 16B/10';
 
 
 
