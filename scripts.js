@@ -93,7 +93,7 @@ address2 = 'ul. Lorem ipsum';
 
 window.onload = function loadVariables(){
     document.getElementById('cv-head-person').innerHTML = pBegin + name + ' ' + lastName + pEnd;
-    document.getElementById('cv-head-photo').innerHTML = '<img src="images/photo.png" alt="picture2">';
+    document.getElementById('cv-head-photo').innerHTML = '<img src="images/picture2.jpg" alt="Photo">';
     document.getElementById('cv-footer').innerHTML = pBegin + footer + pEnd;
     document.getElementById('cv-block-content-aboutMe').innerHTML = pTextAlign + aboutMe[0] + pBegin + aboutMe[1] + pEnd;
     for(var i = 0; i < experience.length; i++){
