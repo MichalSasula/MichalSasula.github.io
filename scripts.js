@@ -31,6 +31,7 @@ aboutMe[1] = 'Moje zainteresowania naukowe obejmują głównie teorię prętów 
 experience.push([]);
 experience[0][0] = '07.2013 - 09.2013 - budowa biurowca w kompleksie biurowym West Forum firmy Archicom. Wrocław, ul. Strzegomska 142.';
 experience[0][1] = '• Stażysta w ramach praktyk studenckich na Wydziale Budownictwa Lądowego i Wodnego PWr.';
+experience.push([]);
 experience[1][0] = '07.2017 - 09.2017 - praca w dziale Kalibracji firmy Sonel S.A. Świdnica, ul. Wokulskiego11.';
 experience[1][1] = '• Stażysta w ramach praktyk studenckich na kierunku Matematyka Stosowana.';
 /* EDUCATION */
