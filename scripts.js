@@ -25,8 +25,8 @@ lastName = 'Sasuła';
 /* FOOTER */
 footer = 'Wyrażam zgodę na przetwarzanie moich danych osobowych w celach rekrutacji, zgodnie z Ustawą z dn. 29 sierpnia 1997 r. o ochronie danych osobowych<br>(Dz. U. z 2002 r. Nr 101, poz. 926 z późniejszymi zmianami.';
 /* ABOUT ME */
-aboutMe[0] = 'Lorem ipsum.';
-aboutMe[1] = 'Lorem ipsum.<br>Lorem ipsum.';
+aboutMe[0] = 'Obecnie doktorant na Wydziale Budownictwa Lądowego i Wodnego Politechniki Wrocławskiej.';
+aboutMe[1] = 'Moje zainteresowania naukowe obejmują głównie teorię prętów cienkościennych i jej implementację <br> z wykorzystaniem metody elementów skończonych.';
 /* EXPERIENCE */
 experience.push([]);
 experience[0][0] = '07.2013 - 09.2013 - budowa biurowca w kompleksie biurowym "West Forum" firmy Archicom. Wrocław, ul. Strzegomska 142.';
