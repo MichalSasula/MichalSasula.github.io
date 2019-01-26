@@ -29,10 +29,10 @@ aboutMe[0] = 'Obecnie doktorant na Wydziale Budownictwa Lądowego i Wodnego Poli
 aboutMe[1] = 'Moje zainteresowania naukowe obejmują głównie teorię prętów cienkościennych i jej implementację <br> z wykorzystaniem metody elementów skończonych.';
 /* EXPERIENCE */
 experience.push([]);
-experience[0][0] = '07.2013 - 09.2013 - budowa biurowca w kompleksie biurowym "West Forum" firmy Archicom. Wrocław, ul. Strzegomska 142.';
-experience[0][1] = '• Stażysta w ramach praktyk studenckich na Wydziale Budownictwa Lądowego i Wodnego PWr.'
-experience[1][0] = '07.2017 - 09.2017 - praca w dziale Kalibracji firmy Sonel S.A. Świdnica, ul. Wokulskiego11.'
-experience[1][1] = '• Stażysta w ramach praktyk studenckich na kierunku Matematyka Stosowana.'
+experience[0][0] = '07.2013 - 09.2013 - budowa biurowca w kompleksie biurowym West Forum firmy Archicom. Wrocław, ul. Strzegomska 142.';
+experience[0][1] = '• Stażysta w ramach praktyk studenckich na Wydziale Budownictwa Lądowego i Wodnego PWr.';
+experience[1][0] = '07.2017 - 09.2017 - praca w dziale Kalibracji firmy Sonel S.A. Świdnica, ul. Wokulskiego11.';
+experience[1][1] = '• Stażysta w ramach praktyk studenckich na kierunku Matematyka Stosowana.';
 /* EDUCATION */
 education.push([]);
 education[0][0] = '2017 - obecnie - Studia 3. stopnia na kierunku Budownictwo Lądowe i Wodne, Politechnika Wrocławska.';
