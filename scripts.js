@@ -29,54 +29,56 @@ aboutMe[0] = 'Lorem ipsum.';
 aboutMe[1] = 'Lorem ipsum.<br>Lorem ipsum.';
 /* EXPERIENCE */
 experience.push([]);
-experience[0][0] = '07.2013 - 09.2013 - Stażysta podczas budowy biurowca w kompleksie biurowym "West Forum" firmy Archicom.';
-experience[0][1] = '• Praktykant w Lorem ipsum.'
+experience[0][0] = '07.2013 - 09.2013 - budowa biurowca w kompleksie biurowym "West Forum" firmy Archicom. Wrocław, ul. Strzegomska 142.';
+experience[0][1] = '• Stażysta w ramach praktyk studenckich na Wydziale Budownictwa Lądowego i Wodnego PWr.'
+experience[1][0] = '07.2017 - 09.2017 - praca w dziale Kalibracji firmy Sonel S.A. Świdnica, ul. Wokulskiego11.'
+experience[1][1] = '• Stażysta w ramach praktyk studenckich na kierunku Matematyka Stosowana.'
 /* EDUCATION */
 education.push([]);
-education[0][0] = '2016 - obecnie - Lorem ipsum:';
-education[0][1] = '• Lorem ipsum.';
+education[0][0] = '2017 - obecnie - Studia 3. stopnia na kierunku Budownictwo Lądowe i Wodne, Politechnika Wrocławska.';
+education[0][1] = '• Temat przewodu: Analiza stateczności prętów cienkościennych.';
 education.push([]);
-education[1][0] = '2013 - 2016 - Lorem ipsum:';
-education[1][1] = '• Lorem ipsum';
+education[1][0] = '2014 - 2017 - Studia 2. stopnia na kierunku Budownictwo Lądowe i Wodne, Politechnika Wrocławska.';
+education[1][1] = '• Specjalność: Konstrukcje budowlane.';
 education.push([]);
-education[2][0] = '2012 - 2013 - Lorem ipsum:';
-education[2][1] = '• Lorem ipsum';
+education[2][0] = '2010 - 2014 - Studia 1. stopnia na kierunku Budownictwo Lądowe i Wodne, Politechnika Wrocławska.';
+education[2][1] = '• Specjalność: Inżynieria budowlana.';
 education.push([]);
-education[3][0] = '2009 - 2012 - I Liceum Ogólnokształcące im. Jędrzeja Śniadeckiego w Dzierżoniowie:';
-education[3][1] = '• profil matematyczno – fizyczny';
+education[3][0] = '2007 - 2010 - Wykształcenie Średnie, I Liceum Ogólnokształcące im. Jędrzeja Śniadeckiego w Dzierżoniowie.';
+education[3][1] = '• Profil: biologiczno-chemiczny.';
 /* LANGUAGES */
 languages.push([]);
 languages[0][0] = 'Angielski';
-languages[0][1] = '70%';
+languages[0][1] = '75%';
 languages.push([]);
 languages[1][0] = 'Niemiecki';
 languages[1][1] = '50%';
 /* SKILLS */
 skills.push([]);
-skills[0][0] = 'MS Office';
-skills[0][1] = '80%';
+skills[0][0] = 'Python';
+skills[0][1] = '20%';
 skills.push([]);
-skills[1][0] = 'MS Access';
-skills[1][1] = '50%';
+skills[1][0] = 'C++';
+skills[1][1] = '35%';
 skills.push([]);
-skills[2][0] = 'MS Project';
-skills[2][1] = '30%';
+skills[2][0] = 'Abaqus, AutoCAD, Robot Structural Analysis';
+skills[2][1] = '80%';
 skills.push([]);
 skills[3][0] = 'WEB (HTML, CSS, JS)';
-skills[3][1] = '80%';
+skills[3][1] = '20%';
 skills.push([]);
-skills[4][0] = 'Grafika (GIMP, Inkscape)';
+skills[4][0] = 'Matlab, Mathematica, R, LaTeX';
 skills[4][1] = '80%';
 /* SKILLS PERSON */
 skillsPerson.push([]);
-skillsPerson[0][0] = 'Praca w grupie';
-skillsPerson[0][1] = '80%';
+skillsPerson[0][0] = 'Pakiet Office';
+skillsPerson[0][1] = '70%';
 skillsPerson.push([]);
-skillsPerson[1][0] = 'Kreatywność';
-skillsPerson[1][1] = '90%';
+skillsPerson[1][0] = 'Linux';
+skillsPerson[1][1] = '30%';
 skillsPerson.push([]);
 skillsPerson[2][0] = 'Gotowość do uczenia się';
-skillsPerson[2][1] = '85%';
+skillsPerson[2][1] = '100%';
 skillsPerson.push([]);
 skillsPerson[3][0] = 'Komunikatywność';
 skillsPerson[3][1] = '90%';
